@@ -37,5 +37,9 @@ Link:
 Link:
 [Named Entity Recognition](https://github.com/ranzeet013/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/04.%20Named%20Entity%20Recognition)
 
+**5.Day_5 Of Learning Natural Language Preprocessing :**
+- **Text Summarization :** In this script, I've explored text summarization using the Transformers library. The script begins by providing a news article on Ukraine Aid in the U.S. Senate. Leveraging the summarization pipeline from Transformers, the script then applies text summarization techniques. Text summarization is a crucial natural language processing (NLP) approach aimed at distilling large volumes of text while preserving essential information. The script utilizes a transformer-based model to generate a concise summary of the provided news article, showcasing the capabilities of Transformers in automating the summarization process. The resulting summary offers a condensed representation of the article's key points, demonstrating the efficiency of transformer models in extracting meaningful content from extensive textual data.
 
+Link:
+[Text Summarization](https://github.com/ranzeet013/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/05.%20Text%20Summarization)
 
