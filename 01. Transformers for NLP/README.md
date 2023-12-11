@@ -31,4 +31,11 @@ Link:
 Link:
 [Masked Language Modeling](https://github.com/ranzeet013/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/03.%20Masked%20Language%20Modeling)
 
+**5.Day_5 Of Learning Natural Language Preprocessing :**
+- **Named Entity Recognition :** I utilized the Transformers library to implement Named Entity Recognition (NER). The script initializes with a set of sample sentences covering diverse topics. Using the NER pipeline provided by Transformers, with a specified aggregation strategy, the script applies NER to identify and classify entities such as names, organizations, locations, and dates within each sentence. Named Entity Recognition, a fundamental natural language processing (NLP) technique, aims to extract valuable information and structurally represent text by assigning predefined categories to entities. This script demonstrates the practical application of NER for various purposes, including information retrieval, question answering, and sentiment analysis, showcasing the effectiveness of Transformers in advancing language-based systems.
+
+Link:
+[Named Entity Recognition](https://github.com/ranzeet013/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/04.%20Named%20Entity%20Recognition)
+
+
 
