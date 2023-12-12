@@ -43,3 +43,11 @@ Link:
 Link:
 [Text Summarization](https://github.com/ranzeet013/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/05.%20Text%20Summarization)
 
+**8.Day_8 Of Learning Natural Language Preprocessing :**
+- **Question Answering :** While exploring the NLP, I utilized the Transformers library to create a pipeline for question-answering (QA). The pipeline, named 'qa,' is configured to perform QA tasks using a pre-trained model. In the example, a context about J. Robert Oppenheimer, a renowned physicist, is provided. The 'qa' pipeline is then used to answer a specific question, 'Who was J. Robert Oppenheimer?' The model processes the context and generates an answer based on its understanding of the input text. This showcases the practical application of the Transformers library in extracting meaningful information from textual data through QA tasks.
+
+Link:
+[Question Answering](https://github.com/ranzeet013/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/07.%20Question%20Answering)
+
+
+
