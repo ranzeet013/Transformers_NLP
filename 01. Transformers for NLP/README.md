@@ -55,5 +55,9 @@ Link:
 Link:
 [Question Answering](https://github.com/ranzeet013/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/07.%20Question%20Answering)
 
+**9.Day_9 Of Learning Natural Language Preprocessing :**
+- **Zero-shot Classification :** In the exploration of text classification, I utilized the Hugging Face Transformers library to implement the zero-shot classification pipeline, an integral component of natural language processing (NLP). The script begins by importing essential libraries, such as pandas, numpy, and the Hugging Face Transformers library, followed by the initialization of the 'zero-shot-classification' pipeline stored in the variable classifier. Demonstrating its practical application, the script showcases a text classification example with the input "The anime was awesome," employing candidate labels 'Negative' and 'Positive,' and printing the resulting classification. Furthermore, the script introduces a more extensive example featuring a descriptive paragraph related to the anime "Attack on Titan." Although the explicit result is not printed, the script applies the classification pipeline to this longer text with candidate labels 'Movie' and 'Anime.' 
 
+Link:
+[Zero-shot classification](https://github.com/ranzeet013/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/08.%20Zero-Shot%20Classification)
 
