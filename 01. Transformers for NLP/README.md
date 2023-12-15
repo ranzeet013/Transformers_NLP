@@ -61,3 +61,28 @@ Link:
 Link:
 [Zero-shot classification](https://github.com/ranzeet013/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/08.%20Zero-Shot%20Classification)
 
+
+**10.Day_10 Of Learning Natural Language Preprocessing :**
+- **Models and Tokenizers :** On this day, I immersed myself in the fundamentals of natural language processing, utilizing the Hugging Face Transformers library with a specific focus on a BERT-based model using the 'bert-base-uncased' checkpoint. The exploration involved a crucial dive into tokenization, encompassing the processes of breaking down text into meaningful units, tokenizing, converting tokens to IDs, and decoding them. Transitioning to models, I loaded a pre-trained BERT-based model for sequence classification, demonstrating its application by preparing inputs, generating outputs, and customizing it for specific labels. The day's journey culminated in the practical application of the model to a list of sentences, incorporating considerations for input padding and truncation in real-world NLP tasks. This hands-on experience provided me with valuable skills in text data processing and the effective utilization of pre-trained models for sequence classification within the NLP domain.
+
+Link:
+[Models and Tokenizers](https://github.com/ranzeet013/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/09.%20Models%20and%20Tokenizers)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
