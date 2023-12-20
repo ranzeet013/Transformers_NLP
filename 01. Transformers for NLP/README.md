@@ -75,7 +75,11 @@ Link:
 [Fine Tuning Sentiment Analysis](https://github.com/ranzeet013/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/10.%20Fine%20Tuning%20Sentiment%20Analysis)
 
 
+**12.Day_12 Of Learning Natural Language Preprocessing :**
+- **Multiclass Sentiment Analysis :** In today's coding journey, I ventured into the intricate world of sentiment analysis.I choose a BERT-based model fine-tuned with the Hugging Face Transformers. I started with the 'Tweets.csv' dataset, where I loaded and tokenized text data, getting an insider's view into the tokenizer's mechanics. A function, `tokenize_function`, handled batch processing like a champ. With a sleek TrainingArguments setup, I initiated a one-epoch training session on a sentiment analysis model, uncovering valuable insights into its architecture through TorchInfo. Post-training, I preserved the model and put it to the test using the Transformers pipeline, effortlessly classifying sentiments in a sample sentence. This hands-on adventure not only provided me with a practical grasp of model fine-tuning but also highlighted the Hugging Face Transformers library's remarkable versatility in the realm of natural language processing workflows.
 
+Link:
+[Multiclass Sentiment Analysis](https://github.com/ranzeet013/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/11.%20Sentiment%20Classification/01.%20Multiclass%20Sentiment%20Analysis)
 
 
 
