@@ -82,8 +82,11 @@ Link:
 [Multiclass Sentiment Analysis](https://github.com/ranzeet013/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/11.%20Sentiment%20Classification/01.%20Multiclass%20Sentiment%20Analysis)
 
 
+**13.Day_13 Of Learning Natural Language Preprocessing :**
+- **Binary Sentiment Classification :** On the 13th day of my coding journey, I immersed myself in sentiment analysis, harnessing the capabilities of a pre-trained DistilBERT model through the Hugging Face Transformers library. I curated a machine learning environment to explore the 'Tweets.csv' dataset. Filtering out 'neutral' sentiments, I visualized the distribution of positive and negative sentiments. Mapping sentiments to numerical values, I tokenized the dataset with a savvy tokenize_function. The DistilBERT model, with its architecture unveiled through torchinfo, underwent training orchestrated by the Hugging Face Trainer. Key parameters, including epochs and batch sizes, were fine-tuned through TrainingArguments. Post-training, the model was preserved, and predictions on the test dataset revealed a confusion matrix, visualized using Seaborn, providing insights into the model's sentiment classification performance. This coding odyssey illuminated the seamless integration of Hugging Face Transformers into sentiment analysis workflows, unveiling the power of natural language processing.
 
-
+Link:
+[Binary Sentiment Classification](https://github.com/ranzeet013/Transformers_NLP/tree/main/01.%20Transformers%20for%20NLP/11.%20Sentiment%20Classification/02.%20Binary%20Sentiment%20Classification)
 
 
 
